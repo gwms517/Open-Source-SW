@@ -26,3 +26,29 @@ Open Source SW Term Project - Team 32
 <br>
 
 ## 결과
+
+* python mosaic.py --1 를 입력했을 때의 결과
+
+
+<br>
+
+
+![222](https://user-images.githubusercontent.com/112797580/206915188-18dab97e-e02d-4cc4-a426-9bf76cab8e5d.png)
+
+
+<br>
+
+#### 얼굴을 인식해서 모자이크를 한 모습
+
+<br>
+
+* python mosaic.py --2 입력 후 원하는 이미지를 입력했을 때의 결과
+
+
+
+![111](https://user-images.githubusercontent.com/112797580/206915191-223f6481-e6a0-4aa0-9308-14e9b7f6854e.png)
+
+<br>
+
+#### 얼굴을 인식한 뒤, 원하는 이미지 파일을 모자이크 대신 삽입한 모습
+
