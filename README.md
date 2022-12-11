@@ -52,3 +52,11 @@ Open Source SW Term Project - Team 32
 
 #### 얼굴을 인식한 뒤, 원하는 이미지 파일을 모자이크 대신 삽입한 모습
 
+
+<br>
+<br>
+<br>
+<br>
+
+## 참고자료
+https://github.com/kimjinho1/Real-time-face-recognition-and-mosaic-using-deep-learning
